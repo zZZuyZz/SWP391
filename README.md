@@ -6,37 +6,37 @@
 ##### WEB APP hiện tại có 8 trang:
 
 	* Landing page
-		** Banner welcome
-		** Bao gồm những bài viết giới thiệu	
-		** Những sản phẩm đang bán
+		* Banner welcome
+		* Bao gồm những bài viết giới thiệu	
+		* Những sản phẩm đang bán
 
 	* Shopping
-		** Tất cả sản phẩm
-		** Phân loại sản phẩm
-		** Tìm kiếm sản phẩm
+		* Tất cả sản phẩm
+		* Phân loại sản phẩm
+		* Tìm kiếm sản phẩm
 
 	* ABout Us
-		** Blog giới thiệu về NestSongAn
+		* Blog giới thiệu về NestSongAn
 	
 	* Cart
-		** Chứa sản phẩm đã được add
-		** Thêm xóa sản phẩm
-		** Thanh Toán
+		* Chứa sản phẩm đã được add
+		* Thêm xóa sản phẩm
+		* Thanh Toán
 
 	* Contact
-		** Form điền thông tin
+		* Form điền thông tin
 
 	* Login
-		** Đăng nhập
-		** Đăng ký
+		* Đăng nhập
+		* Đăng ký
 
 	* Account
-		** Thông tin user
-		** Update thông tin
+		* Thông tin user
+		* Update thông tin
 
 	* Product detail
-		** Thông tin sản phẩm
-		** Add vào giỏ hàng
+		* Thông tin sản phẩm
+		* Add vào giỏ hàng
 
 	* News
 		* Nhiều bài blog giới thiệu
